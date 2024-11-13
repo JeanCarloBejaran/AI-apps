@@ -1,2 +1,2 @@
 # AI-apps
-Hands-on AI examples for personal applications.
+Hands-on AI personal applications through time. 
